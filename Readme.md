@@ -1,1 +1,1 @@
-The backend comprises of Nodejs, express, Socketio
+The backend comprises of Nodejs, express, Socketio & Clerkjs
